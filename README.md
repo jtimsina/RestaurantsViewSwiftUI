@@ -1,2 +1,6 @@
 # RestaurantsViewSwiftUI
 This allows you to view the restaurants/its location
+
+Regist your account and get the key using the following link
+https://documenuapi.us.auth0.com/login?state=hKFo2SBVNVFvYkd1dzgtWDVFWWxvcElvM3F4V0c2YmNBcnU0dKFupWxvZ2luo3RpZNkgTzV0cWgtaVd3WmhCOVlMSlFGVW1Gb0ZGamtFVU1wa0mjY2lk2SByZnQ0VUFHaUQ4a3BwUFVHMFROdTMwcDBWczljdXZCdw&client=rft4UAGiD8kppPUG0TNu30p0Vs9cuvBw&protocol=oauth2&redirect_uri=https%3A%2F%2Fdocumenu.com%2Fdashboard&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=TUFiZHNMcnVfVV90MVljU0c0SkVDanRlVE1nVkxOM3BGYUJOQ0tTUTZxSQ%3D%3D&code_challenge=n7OERaWW5YpAqlC3sTRhoGerFJq-DrNt2lm0zqRnaSw&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D
+
